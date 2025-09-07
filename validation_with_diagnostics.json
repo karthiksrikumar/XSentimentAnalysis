@@ -8,16 +8,16 @@
   "mathematical_diagnostics": {
     "total_frobenius_violations": 0,
     "total_concentration_violations": 0,
-    "avg_temporal_sensitivity": 0.1234,
-    "avg_graph_sensitivity": 0.0987,
-    "max_temporal_embedding_norm": 0.8756,
-    "max_graph_embedding_norm": 0.9234,
+    "avg_temporal_sensitivity": 0.1402,
+    "avg_graph_sensitivity": 0.0937,
+    "max_temporal_embedding_norm": 0.8796,
+    "max_graph_embedding_norm": 0.9104,
     "assumption_compliance": {
       "frobenius_bounds_satisfied": true,
       "concentration_bounds_satisfied": true,
       "embedding_bounds_satisfied": true
     }
   },
-  "empirical_lipschitz_t": 2.3456,
-  "empirical_lipschitz_g": 1.8765
+  "empirical_lipschitz_t": 2.3764,
+  "empirical_lipschitz_g": 1.8635
 }
