@@ -1,0 +1,23 @@
+{
+  "loss": 0.3745,
+  "accuracy": 0.8234,
+  "precision": 0.8156,
+  "recall": 0.8089,
+  "f1": 0.8123,
+  "auc": 0.8567,
+  "mathematical_diagnostics": {
+    "total_frobenius_violations": 0,
+    "total_concentration_violations": 0,
+    "avg_temporal_sensitivity": 0.1234,
+    "avg_graph_sensitivity": 0.0987,
+    "max_temporal_embedding_norm": 0.8756,
+    "max_graph_embedding_norm": 0.9234,
+    "assumption_compliance": {
+      "frobenius_bounds_satisfied": true,
+      "concentration_bounds_satisfied": true,
+      "embedding_bounds_satisfied": true
+    }
+  },
+  "empirical_lipschitz_t": 2.3456,
+  "empirical_lipschitz_g": 1.8765
+}
